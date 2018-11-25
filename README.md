@@ -6,3 +6,6 @@ Instalação
 
 Testando a aplicação
 1. Abra o navegador com o seu //localhost e acesse a pasta do projeto;
+
+Screenshot
+https://imgur.com/a/XAlbd7r
