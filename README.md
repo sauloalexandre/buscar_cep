@@ -1,5 +1,5 @@
 # buscar_cep
-Api destinada a busca de cep
+Script destinado a busca de endereço pelo cep. 
 
 Instalação
 1. Faça o clone deste projeto para o seu pc; 
